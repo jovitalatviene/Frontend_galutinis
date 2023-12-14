@@ -1,0 +1,63 @@
+.container{
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+h2{
+    margin: 15px;
+    color: rgb(161, 207, 91);
+    font-size: 1.8em;
+}
+
+.form{
+   width: 80%;
+    margin: auto;
+    padding: 20px;
+}
+
+.form-control{
+    border-radius: 35px;
+    padding: 15px;
+}
+
+.btn{
+    background-color: rgb(161, 207, 91);
+    width: 80%;
+    margin: auto;
+    padding: 10px 5px;
+}
+
+.fruit-container{
+    margin: 10px;
+    background-color: antiquewhite;
+}
+
+#fruitDetails{    
+    justify-content: center;
+    background-color: rgb(233, 209, 200);  
+
+}
+#fruitDetails p{
+    margin: 5px;
+    font-size: 0.8em;
+    font-style: oblique;
+    color: brown;
+    
+    
+}
+
+#fruitDetails div{    
+    background-color: rgb(233, 209, 200);
+}
+
+.row{
+    margin: 5px;
+   
+}
+
+h5{
+    color: rgb(161, 207, 91);
+    font-style: oblique;
+}
